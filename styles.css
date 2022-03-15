@@ -1418,13 +1418,13 @@ a{
 }
 
 .mi-margen{
-    margin-left: 30px;
+    padding-left: 30px;
 }
 
 .mi-margen2{
-    margin-left: 10px;
+    padding-left: 10px;
 }
 
 .mi-margen3{
-    margin-left: 40px;
+    padding-left: 40px;
 }
